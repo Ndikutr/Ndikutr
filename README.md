@@ -1,11 +1,11 @@
-# Hey, I'm Josh Ndiku 👨‍💻
+# Hey, I'm Joshua Ndiku 👨‍💻
 
 **Junior Software Engineer | WPF & .NET Developer | Tech Storyteller | Building One Line at a Time**
 
 Welcome, fellow devs 👋  
 I'm not just here to write code — I'm here to *build*, *learn*, and *level up* with the community.
 
-I'm a hands-on developer focused on **.NET development**, with a strong base in **C#, WPF**, and web technologies like **HTML, CSS, and JavaScript**. I love clean architecture, meaningful UI/UX, and writing code that speaks for itself.
+I'm a hands-on developer focused on **.NET development**, with a strong base in **C#, WPF**, and web technologies like **HTML, CSS, and JavaScript**.
 
 ---
 
